@@ -1,4 +1,4 @@
--Window scaleable everything (to a point) 
+-Window scalable everything (to a point) 
 -Menu
 -Settings
 -Importing new / different questions & answers
