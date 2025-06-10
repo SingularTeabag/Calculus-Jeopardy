@@ -1,4 +1,4 @@
-This is for my final Calculus project 
+# This is for my final Calculus project 
 
 Bastically a rough draft of this project
 
